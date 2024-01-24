@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yohan.</h1>
 <h3 align="center">A fullstack developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raink31&label=Profile%20views&color=0e75b6&style=flat" alt="raink31" /> </p>
-
 - 🌱 I’m currently learning **Spring & Java.**
 
 - 📫 How to reach me : **yohan.baes97@gmail.com**
